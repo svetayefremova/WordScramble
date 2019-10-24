@@ -1,3 +1,3 @@
 # WordScramble
 
-![](image.gif)
+![](video.gif)
